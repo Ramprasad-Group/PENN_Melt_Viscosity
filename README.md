@@ -5,6 +5,7 @@ This repository contains an example implementation of the physics‑enforced neu
 > **A physics‑enforced neural network to predict polymer melt viscosity**  
 > Ayush Jain *et al.*, *npj Computational Materials* (2025).  
 > [https://www.nature.com/articles/s41524-025-01532-6](https://www.nature.com/articles/s41524-025-01532-6)
+> [https://openreview.net/forum?id=bZHxUnv3IY](https://openreview.net/forum?id=bZHxUnv3IY)
 
 
 If you use this code, please use the following citation:
